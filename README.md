@@ -4,3 +4,5 @@ In a remarkably short time, we've crafted a platform filled with engaging conten
 Whether you're new to the instrument or looking to refine your skills, our website offers a wide range of lessons that cover everything from basic chords to advanced techniques. 
 With a focus on simplicity and accessibility, our user-friendly design ensures a seamless experience across all devices. 
 Prepare to dive into the world of guitar playing and unlock your musical potential with our fascinating and educational content!"
+https://yourfirstlesson.netlify.app/
+Click on the above link to view the project!
